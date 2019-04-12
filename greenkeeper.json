@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "jovo-cli/package.json",
+        "jovo-cli/platforms/googleAction/dialogflow/package.json"
+      ]
+    }
+  }
+}
